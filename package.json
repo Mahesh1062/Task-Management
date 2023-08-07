@@ -1,0 +1,11 @@
+{
+  "name": "task-management",
+  "version": "1.0.0",
+  "description": "- [ ] Task Planning\r - [ ] To-do lists\r - [ ] Task Scheduling\r - [ ] Task Tracking\r - [ ] Calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
